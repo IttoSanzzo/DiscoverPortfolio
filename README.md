@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="Project Image" src=".github/DiscoverPortfolio.png">
+  <img alt="Project Image" src="https://i.imgur.com/Qms6zhB.png">
 </p>
 
 ## 🚀 Tecnologias
@@ -25,7 +25,7 @@ Apenas uma página simples de portfolio.
 
 -   [Acesse o projeto finalizado, online](https://ittosanzzo.github.io/DiscoverPortfolio/)
 
-## :memo: Licença
+## 📝 Licença
 
 Esse projeto está sob a licença MIT.
 
